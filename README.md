@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Robert! 😄
+
+I'm a full-stack web developer who utilizes my applied physics and avionics background to implement agile solutions to complex problems. I'm an adaptive and communicative team member that emphasizes efficient and readable code. I’m eager to contribute my skills to a collaborative environment where I can further develop acquired skills as well as learn new ones!
 
 <!--
 **comatosino/comatosino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
